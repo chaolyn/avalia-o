@@ -1,7 +1,8 @@
 body {
-    background-color: black;
+    background-color: bisque;
     color: white; 
     font-family: Arial, sans-serif;
+    align-items: center;
     
    
     display: flex;
@@ -17,6 +18,20 @@ body {
     margin-bottom: 20px;
 }
 
-.nav {
-    background-color: bisque;
+.p {
+    text-align: center;
+    size-adjust: 12px;
+    font-size: medium;
+    margin-bottom: auto;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
 }
