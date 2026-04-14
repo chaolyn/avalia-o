@@ -24,11 +24,12 @@ body {
     size-adjust: 12px;
     font-size: medium;
     margin-bottom: auto;
+    color: blue;
 }
 
 button {
     padding: 10px 20px;
-    background-color: blue;
+    background-color: rgb(#808080);
     color: white;
     border: none;
     border-radius: 5px;
