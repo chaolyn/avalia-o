@@ -1,12 +1,22 @@
 body {
-    align-items: center;
     background-color: black;
+    color: white; 
+    font-family: Arial, sans-serif;
+    
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    min-height: 100vh; 
 }
 
 .navbar {
     text-align: center;
-    color: blue;
-    width: 20px;
-    height: 15px;
+    color: blue; 
+    margin-bottom: 20px;
+}
 
+.nav {
+    background-color: bisque;
 }
