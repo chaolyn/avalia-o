@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: bisques;
     font-family: Arial, sans-serif;
     margin: 0;
     display: flex;
@@ -9,7 +9,7 @@ body {
 }
 
 .profile-card {
-    background-color: bisque; 
+    background-color: white; 
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
